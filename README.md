@@ -10,19 +10,25 @@ Using views and viewset create a API for GET request
 Using URL Create Rouets
 
 Live Application URL:-
+
 http://bit.ly/3a6jA9d
 
 Prerequisites
+
 Refer to https://www.python.org/downloads/ to install Python
 Refer to https://docs.djangoproject.com/en/3.1/topics/install/ to install Django
 Refer to https://www.django-rest-framework.org/#installation to install Django Rest Framework
 
 Cloning and Running the Application in local
 
-Install all the requirments. which is provided in requirment.txt. Using Following Command pip install -r requirment.txt
+Install all the requirments. which is provided in requirment.txt. Using Following Command
+
+pip install -r requirment.txt
 
 In order to run the application Type the following command
 
+
 python manage.py runserver
+
 
 The Application Runs on localhost:8000
