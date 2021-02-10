@@ -15,21 +15,21 @@ http://bit.ly/3a6jA9d
 
 Prerequisites
 
-Install Node JS
-Refer to https://www.python.org/downloads/ to install Python
-Refer to https://docs.djangoproject.com/en/3.1/topics/install/ to install Django
-Refer to https://www.django-rest-framework.org/#installation to install Django Rest Framework
+Install Node JS.
+Refer to https://www.python.org/downloads/ to install Python.
+Refer to https://docs.djangoproject.com/en/3.1/topics/install/ to install Django.
+Refer to https://www.django-rest-framework.org/#installation to install Django Rest Framework.
 
 
-Cloning and Running the Application in local
-Clone the project into local
+Cloning and Running the Application in local.
+Clone the project into local.
 
 Install all the packages. 
-Go into the project folder and type the following command to install all
+Go into the project folder and type the following command to install all.
 
 pip install -r requirment.txt
 
-In order to run the application Type the following command
+In order to run the application Type the following command.
 
 python manage.py runserver
 
