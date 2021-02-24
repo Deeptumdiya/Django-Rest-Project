@@ -15,10 +15,8 @@ http://bit.ly/3a6jA9d
 
 Prerequisites
 
-Install Node JS.
 Refer to https://www.python.org/downloads/ to install Python.
 Refer to https://docs.djangoproject.com/en/3.1/topics/install/ to install Django.
-Refer to https://www.django-rest-framework.org/#installation to install Django Rest Framework.
 
 
 Cloning and Running the Application in local.
